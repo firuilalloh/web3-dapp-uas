@@ -32,7 +32,7 @@ contract DonationContract {
 }
 ```
 - kemudian klik compile dan tunggu hingga selesai jika sudah ambil Contract ABI yang ada di pojok kanan bawah sidebar.
-- lalu pergi ke menu Deploy & Run Transaction ganti Spolia-testnet pada field Environment setelah itu klik Deploy & Verify.
+- lalu pergi ke menu Deploy & Run Transaction ganti Spolia-testnet pada field Environment. Setelah itu, klik Deploy & Verify.
 - Scroll ke bawah utnuk menemukan Deployed Contracts copy Contract Address.
 ### Langkah Instalasi Backend
 - lakukan pnpm init untuk menambahkan file package.json
